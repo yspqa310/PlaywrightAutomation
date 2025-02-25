@@ -37,7 +37,7 @@ public class apiPracticePostWithJson {
 
     @Test
     public void createUserPost() throws IOException {
-        String AccessToken = "dc46a496fa60b1794a83c55ae4f34e274d2a998c601b014705aab2afc1c5d598";
+        String AccessToken = "23411dafd4cd71bc33dd7f692921df4119747b53876170af99fc9f5ef2b61714";
 
         //passing json data as a String
         String reqJson =
