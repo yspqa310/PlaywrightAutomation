@@ -12,6 +12,6 @@ public class apiTestClass extends apiReusableMethods {
     }
     @Test
     public void apipost() throws IOException {
-        apiPost("https://gorest.co.in/public/v2/users","application/json","23411dafd4cd71bc33dd7f692921df4119747b53876170af99fc9f5ef2b61714","");
+        apiPost("https://gorest.co.in/public/v2/users","application/json","23411dafd4cd71bc33dd7f692921df4119747b53876170af99fc9f5ef2b61714","D:\\Desktop\\PlaywrightAutomation\\src\\main\\resources\\user.json");
     }
 }

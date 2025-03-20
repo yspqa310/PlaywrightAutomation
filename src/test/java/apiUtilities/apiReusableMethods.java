@@ -62,6 +62,7 @@ public class apiReusableMethods extends genericMethods {
         assertEquals(getStatusCode(), 201);
         assertEqualsIgnoreCase(getStatusText(), "created");
         getResponseAsPrettyString();
+        System.out.println(getResponseAsPrettyString());
         return response;
     }
 
