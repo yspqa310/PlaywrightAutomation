@@ -6,6 +6,5 @@
 *.pdf
 *.zip
 *.iml
-/src/test/resources/testDataFiles/testConfig.properties
 .gitignore
 *.properties
