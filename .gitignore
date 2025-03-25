@@ -1,3 +1,11 @@
 /src/test/resources/Resume.pdf
-/ExecutionVideo/
-/reports/
+/ExecutionVideo
+/reports
+/.idea
+*.html
+*.pdf
+*.zip
+*.iml
+!src/test/resources/testDataFiles/testConfig.properties
+.gitignore
+*.properties
